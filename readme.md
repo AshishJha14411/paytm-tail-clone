@@ -12,7 +12,7 @@ This is a Landing Page of the Paytm website which was made using purely HTML and
 
 ### The Deployed Version Link
 
-[Paytm]()
+[Paytm](https://tailwindpaytmclone.netlify.app/)
 
 ### SnapShot of the WebPage
 
